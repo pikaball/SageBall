@@ -9,4 +9,4 @@ Author: pikaball (whitesworder@gmail.com)
 
 Currently Implemented Functionalities:
 ---------------------------------------
-- hensel_solve(f,p,r): solve polynomial roots on GF(p^r)
+- hensel_solve(f,p,r): solve polynomial roots on $GF(p^r)$ using Hensel's lifting method
