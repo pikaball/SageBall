@@ -7,9 +7,10 @@ It should be imported in a sagemath script.
 
 Author: pikaball (whitesworder@gmail.com)
 
-```
-pip install sageball
-```
+install::
+
+    pip install sageball
+
 
 Currently Implemented Functionalities:
 ---------------------------------------
