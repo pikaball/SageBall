@@ -7,7 +7,7 @@ It should be imported in a sagemath script.
 
 Author: pikaball (whitesworder@gmail.com)
 
-```bash
+```
 pip install sageball
 ```
 
