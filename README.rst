@@ -14,7 +14,7 @@ install::
 
 Currently Implemented Functionalities:
 ---------------------------------------
-- hensel_solve(f,p,r): solve polynomial roots on $GF(p^r)$ using Hensel's lifting method
++ `hensel_solve(f,p,r)`: solve polynomial roots on $GF(p^r)$ using Hensel's lifting method
 
 
 Usage:
